@@ -43,7 +43,7 @@ How to Use/Setup ?
       7. Start mysql by entering "service mysql start" in the Terminal
       8. Find the IP Address of Machine
       9. In your Browser, go to "http://[IP_ADDRESS_OF_VM]:8080/JavaVulnerableLab/install.jsp 
-      10. Click the Install Button
+      10. Click the Install Button.
       11. Enjoy :)
       
 **Method 3.Easiest Method : Standalone Web Application**
